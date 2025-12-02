@@ -6,7 +6,7 @@
 **Português:**
 👉 A análise completa com resultados, considerações finais e recomendações está disponível aqui: [basic_instagram_analysis.ipynb](basic_instagram_analysis.ipynb) 
 
-## 📊 Dashboard Preview | Visualização do Dashboard
+## 📊 Hashtag Analysis Preview | Visualização Prévia da análise de hashtag
 
 ![Dashboard Screenshot](basic_instagram.png)
 
